@@ -10,6 +10,7 @@
 
 ## ツール、ライブラリ等
 
+-   [NGSI Go](https://github.com/lets-fiware/ngsi-go) - FIWARE NGSIv2 および NGSI-LD 用の Unix ライクなコマンドライン・ツール
 -   [FIWARE pi](https://github.com/lets-fiware/fiware-pi) - FIWARE GEs を Raspberry Pi で動かすための情報
 -   [FIWARE Sakura.io](https://github.com/lets-fiware/fiware-sakuraio) - Sakura.io を FIWARE に接続するソフトウェア
 
