@@ -4,9 +4,11 @@
 
 ## WireCloud Widget
 
--   [Json injector widget](https://github.com/lets-fiware/json-injector) - WireCloud の Widget や Operator に JSON データを送信できる Widget
+-   [Json injector widget](https://github.com/lets-fiware/json-injector) - WireCloud の Widget や Operator に JSON データを送信できるウィジェットです.
 -   [Panel Color widget](https://github.com/sakura-internet/panel_color_widget) - カラー表示可能なパネルWidget. TextとBackgroudを指定カラーにできます.
 -   [Alert Filter Operator](https://github.com/sakura-internet/alert_filter_operator) - 入力値を設定した閾値によって３通りに振り分けるオペレータ.
+-   [MapLibre GL widget](https://github.com/lets-fiware/maplibre-gl-widget) - MapLibre GL を使用したマップ・ビューア・ウィジェットです.
+-   [Cesium.js widget](https://github.com/lets-fiware/cesium-js-widget) - Cesium.js を使用したマップ・ビューア・ウィジェットです.
 
 ## ツール、ライブラリ等
 
