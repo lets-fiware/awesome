@@ -9,6 +9,7 @@
 -   [Alert Filter Operator](https://github.com/sakura-internet/alert_filter_operator) - 入力値を設定した閾値によって３通りに振り分けるオペレータ.
 -   [MapLibre GL widget](https://github.com/lets-fiware/maplibre-gl-widget) - MapLibre GL を使用したマップ・ビューア・ウィジェットです.
 -   [Cesium.js widget](https://github.com/lets-fiware/cesium-js-widget) - Cesium.js を使用したマップ・ビューア・ウィジェットです.
+-   [OpenLayers Map ja widget](https://github.com/lets-fiware/ol-map-ja-widget) - OpenLayers を使用したマップ・ビューア・ウィジェットです. 日本向け機能を追加しています.
 
 ## ツール、ライブラリ等
 
