@@ -7,6 +7,7 @@
 -   [NGSI Go](https://github.com/lets-fiware/ngsi-go) - FIWARE NGSIv2 および NGSI-LD 用の Unix ライクなコマンドライン・ツール.
 -   [FIWARE Big Bang](https://github.com/lets-fiware/FIWARE-Big-Bang) - クラウドに FIWARE インスタンスをセットアップするためのターンキーソリューション.
 -   [FIWARE pi](https://github.com/lets-fiware/fiware-pi) - FIWARE GEs を Raspberry Pi で動かすための情報.
+-   [node-red-contrib-letsfiware-NGSI](https://github.com/lets-fiware/node-red-contrib-letsfiware-NGSI) - FIWARE Open APIs をサポートする Node-RED カスタムノード.
 -   [FIWARE Sakura.io](https://github.com/lets-fiware/fiware-sakuraio) - Sakura.io を FIWARE に接続するソフトウェア.
 
 ## WireCloud Widget
